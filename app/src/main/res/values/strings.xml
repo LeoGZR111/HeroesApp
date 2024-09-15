@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="welcome_text">Hola, Leo</string>
+    <string name="our_categories_text">Categorias de Heroes</string>
+    <string name="fav_heroes">Heroes Favoritos</string>
+</resources>
